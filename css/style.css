@@ -1,0 +1,49 @@
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#logout-message {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 80px;
+    margin-left: 35px;
+    color: green;
+}
+
+.logo {
+    font-weight: 600 !important;
+    color: green !important;
+}
+
+#main-section {
+    background: url("../img/main2.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+#content-div {
+    color: #eee;
+    padding-top: 350px;
+    padding-left: 100px;
+    position: relative;
+}
+
+#content-div h3 {
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+#join-btn {
+    max-width: 61px;
+    font-size: 18px;
+    color: rgb(4, 138, 191);
+    border-bottom: 2px solid #eee;
+    padding-bottom: 2px;
+}
+
